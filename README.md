@@ -1,2 +1,2 @@
 # webpacknew
- a new webpack
+ a new webpack production
